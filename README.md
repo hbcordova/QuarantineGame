@@ -35,3 +35,7 @@ It is the file that contains the definition of the CEnemy class. It also contain
 ![QuarantineGame Win](./Game_Screenshots/Quarantine_Game-Win.png)
 ![QuarantineGame Lose](./Game_Screenshots/Quarantine_Game-Lose.png)
 
+## Credits
++ Heber Cordova Jimenez: Developer
++ Alejandro Medrano Jacobo: Developer && Design
++ Felix Peña Albino: Sound
